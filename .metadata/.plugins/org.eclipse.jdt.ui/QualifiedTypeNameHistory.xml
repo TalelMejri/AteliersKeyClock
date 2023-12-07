@@ -1,2 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="jakarta.servlet.ServletException"/>
+<fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+<fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.jwt.JwtDecoder"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.server.resource.authentication.JwtAuthenticationConverter"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.server.resource.authentication.JwtGrantedAuthoritiesConverter"/>
+<fullyQualifiedTypeName name="org.springframework.security.oauth2.jwt.NimbusJwtDecoder"/>
+<fullyQualifiedTypeName name="jakarta.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Controller"/>
+<fullyQualifiedTypeName name="org.dsi.repo.SupplierRepo"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.keycloak.adapters.springsecurity.client.KeycloakClientRequestFactory"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.hateoas.PagedModel"/>
+<fullyQualifiedTypeName name="org.dsi.entity.Supplier"/>
+<fullyQualifiedTypeName name="org.keycloak.authorization.client.util.HttpMethod"/>
+<fullyQualifiedTypeName name="org.keycloak.adapters.springsecurity.client.KeycloakRestTemplate"/>
+<fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
+<fullyQualifiedTypeName name="org.springframework.core.ParameterizedTypeReference"/>
+<fullyQualifiedTypeName name="org.springframework.security.core.Authentication"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+</qualifiedTypeNameHistroy>

@@ -6,6 +6,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
+import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
 public class ProductsAppApplication {
@@ -21,6 +22,11 @@ public class ProductsAppApplication {
             productRepository.save(new Product(null,"Printer",1600,134));
             productRepository.save(new Product(null,"Smartphone",1600,34));
         };
+    }
+    
+    @Bean
+    public RestTemplate getRestTemplate() {
+    	return new RestTemplate();
     }
 
 }
